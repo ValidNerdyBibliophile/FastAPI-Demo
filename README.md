@@ -1,7 +1,7 @@
-# FastAPI-Demo
+## FastAPI-Demo
 Understanding how FastAPI works, and getting accquainted with GET, POST, PUT, DELETE.
 
-#### Installing FastApi using Cmd
+### Installing FastApi using Cmd
 
 pip install fastapi
 
